@@ -4,6 +4,19 @@ using System.Collections.Generic;
 namespace v2rayN
 {
     class Global
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
     {
         #region 常量
 
